@@ -201,7 +201,9 @@ https://drive.google.com/file/d/1wR-FoTWc4TPcjXtsFeaVHvUYpkyPZcD3/view?usp=shari
 
 &nbsp;&nbsp; 위 사진은 분석과정 1번에서의 데이터 셋을 train 후 test set에서의 결과에 대한 chart와 table이다. 선행연구 데이터만 활용한 경우 성능이 비교적 떨어지는 것을 확인하였고 __크롤링 데이터와 절반씩 사용한 데이터의 성능이 거의 비슷함__ 을 알 수 있다. 하지만 __본 연구의 목적이 마스크를 쓰지 않은 사람을 탐지해내는것이라는 점을 고려했을 때__ , 더 뛰어난 절반씩 사용한 데이터를 통해 학습한 모델을 최종 모델로 선정한다.
 
-### 3. Predict 결과예시
+### 3. Predict 결과 및 영상예시
+* Predict image <br>
+ <img src="https://user-images.githubusercontent.com/61648914/101678426-482d3500-3aa1-11eb-8ca9-62c5d09b7c7d.PNG" width="70%" height="30%" title="px(픽셀) 크기 설정"> <br>
 * Predict video1 <br>
 ![ezgif com-gif-maker2](https://user-images.githubusercontent.com/61648914/101675531-46fa0900-3a9d-11eb-9678-f2596ff6590f.gif) <br>
 * Predict video2 <br>
